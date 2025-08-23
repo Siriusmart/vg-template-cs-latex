@@ -30,7 +30,7 @@ body {
   background-color: rgb(53, 57, 75);
   display: inline-block;
   width: 60%;
-  font-family: Arial, sans-serif;
+  font-family: Arimo, sans-serif;
   text-transform: uppercase;
 }
 
@@ -48,7 +48,7 @@ h1 {
   margin-top: 1.5em;
   font-size: 3em;
   font-weight: 200;
-  font-family: Arial, sans-serif;
+  font-family: Arimo, sans-serif;
   line-height: 1.3em;
   text-align: left;
   color: rgb(30, 105, 200);
@@ -58,7 +58,7 @@ h1 {
   margin-top: -0.5em;
   font-size: 1.5em;
   font-weight: 200;
-  font-family: Arial, sans-serif;
+  font-family: Arimo, sans-serif;
   margin-bottom: 2em;
   text-align: left;
   color: rgb(92, 95, 119);
@@ -92,7 +92,7 @@ h1 {
 #abstract {
   line-height: 1.8em;
   color: rgb(32, 35, 59);
-  font-family: Arial, sans-serif;
+  font-family: Arimo, sans-serif;
   font-weight: 200;
 }
 
@@ -109,7 +109,7 @@ h2::before {
 h2 {
   margin-top: 1.3em;
   margin-bottom: 0.2em;
-  font-family: Arial, sans-serif;
+  font-family: Arimo, sans-serif;
   font-weight: 300;
   font-size: 1.6em;
   color: rgb(30, 105, 200);
@@ -118,7 +118,7 @@ h2 {
 h3 {
   margin-top: 1em;
   margin-bottom: -0.2em;
-  font-family: Arial, sans-serif;
+  font-family: Arimo, sans-serif;
   font-weight: 300;
   font-size: 1.2em;
   color: rgb(30, 105, 200);
@@ -127,7 +127,7 @@ h3 {
 h4 {
   margin-top: 0.8em;
   margin-bottom: -0.5em;
-  font-family: Arial, sans-serif;
+  font-family: Arimo, sans-serif;
   font-weight: 300;
   font-size: 1em;
 }
@@ -135,7 +135,7 @@ h4 {
 h5 {
   margin-top: 0.5em;
   margin-bottom: -0.7em;
-  font-family: Arial, sans-serif;
+  font-family: Arimo, sans-serif;
   font-weight: 300;
   font-size: 0.95em;
 }
@@ -143,7 +143,7 @@ h5 {
 h6 {
   margin-top: 0.3em;
   margin-bottom: -1em;
-  font-family: Arial, sans-serif;
+  font-family: Arimo, sans-serif;
   font-weight: 300;
   font-size: 0.9em;
 }
@@ -151,7 +151,7 @@ h6 {
 h2.alt {
   margin-top: 0.8em;
   margin-bottom: -0.2em;
-  font-family: Arial, sans-serif;
+  font-family: Arimo, sans-serif;
   font-weight: 300;
   font-size: 1.4em;
   color: black;
