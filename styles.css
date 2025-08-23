@@ -35,6 +35,7 @@ body {
 }
 
 #front {
+  overflow: hidden;
   font-family: "Computer Modern Serif", sans-serif;
   color: rgb(42, 45, 65);
   margin: auto;
